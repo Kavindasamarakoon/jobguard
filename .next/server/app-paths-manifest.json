@@ -1,0 +1,12 @@
+{
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/detector/page": "app/detector/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/cv/list/route": "app/api/cv/list/route.js",
+  "/api/match/jobs/route": "app/api/match/jobs/route.js",
+  "/api/cv/delete/[id]/route": "app/api/cv/delete/[id]/route.js",
+  "/api/cv/upload/route": "app/api/cv/upload/route.js"
+}

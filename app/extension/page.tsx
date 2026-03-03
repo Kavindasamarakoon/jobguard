@@ -1,0 +1,1 @@
+export default function Extension(){return(<div className='card'><div className='card-header'><div className='text-lg font-semibold'>Fake Job Detection Extension</div></div><div className='card-body'>Coming soon.</div></div>)}
