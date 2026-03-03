@@ -1,6 +1,15 @@
 
 # JobGuard v3 (Next.js 14 + Prisma + SQLite)
 
+![image_alt](https://github.com/Kavindasamarakoon/jobguard/blob/ce91d7696296a89a5c81169b692fb6a61101d30a/Screenshot%202025-09-14%20092454.png)
+![image_alt](https://github.com/Kavindasamarakoon/jobguard/blob/ce91d7696296a89a5c81169b692fb6a61101d30a/Screenshot%202025-09-14%20093737.png)
+![image_alt](https://github.com/Kavindasamarakoon/jobguard/blob/ce91d7696296a89a5c81169b692fb6a61101d30a/Screenshot%202025-09-14%20094741.png)
+![image_alt](https://github.com/Kavindasamarakoon/jobguard/blob/ce91d7696296a89a5c81169b692fb6a61101d30a/Screenshot%202025-09-14%20094808.png)
+![image_alt](https://github.com/Kavindasamarakoon/jobguard/blob/ce91d7696296a89a5c81169b692fb6a61101d30a/Screenshot%202025-09-14%20095041.png)
+![image_alt](https://github.com/Kavindasamarakoon/jobguard/blob/ce91d7696296a89a5c81169b692fb6a61101d30a/Screenshot%202025-09-14%20095224.png)
+![image_alt](https://github.com/Kavindasamarakoon/jobguard/blob/ce91d7696296a89a5c81169b692fb6a61101d30a/Screenshot%202025-09-14%20095436.png)
+
+
 This build fixes previous issues and includes:
 - Working **Login / Registration** (DB-backed)
 - **Post a Job** saves to DB and redirects to **/jobs/[id]**
